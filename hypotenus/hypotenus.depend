@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1672428914 source:e:\c code\hypotenus\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

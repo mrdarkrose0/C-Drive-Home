@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1672473274 source:e:\c code\switchstatement\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
